@@ -1,2 +1,2 @@
 # calculator
-simple calcu
+simple calculator for calculating.
